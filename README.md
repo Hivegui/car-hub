@@ -1,3 +1,6 @@
+**Unfortunately this project uses the cars-by-api API and certain features are paid for. And the same happened for imaginstudio. It was a study project and a lot of learning.**
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
